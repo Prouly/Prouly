@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋
+Im Álvaro, a software developer 👨🏻‍💻
 <!--
 **Prouly/Prouly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github-Home](https://github.com/Prouly/Prouly/assets/80397239/ac733691-49cf-4a4e-a93f-1c113a321350)
