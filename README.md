@@ -56,9 +56,9 @@ I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with c
 <table style="width:100%">
 <tr>
 <td style="vertical-align:top">
-<h4>MineMonroy</h4>
-<a href="https://github.com/Prouly/Mineroy">
-<img src="https://github.com/Prouly/Mineroy/blob/main/minemonroy.jpg" width='400px' height='auto'>
+<h4>Betis Island</h4>
+<a href="https://github.com/Prouly/betis-island">
+<img src="https://github.com/Prouly/betis-island/blob/main/Betis-Island-portada.png" width='400px' height='auto'>
 </a>
 </td>
 <td style="vertical-align:top">
@@ -70,9 +70,9 @@ I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with c
 </tr>
 <tr>
 <td style="vertical-align:top">
-<h4>Betis Island</h4>
-<a href="https://github.com/Prouly/betis-island">
-<img src="https://github.com/Prouly/betis-island/blob/main/Betis-Island-portada.png" width='400px' height='auto'>
+<h4>MineMonroy</h4>
+<a href="https://github.com/Prouly/Mineroy">
+<img src="https://github.com/Prouly/Mineroy/blob/main/minemonroy.jpg" width='400px' height='auto'>
 </a>
 </td>
 <td style="vertical-align:top">
