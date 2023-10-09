@@ -1,5 +1,5 @@
 
-# ![bitmoji-hello](https://github.com/Prouly/Prouly/assets/80397239/d99dad50-f50c-4099-8910-6fbd664eafd7) Hello there 👋, Im Álvaro, a software developer 👨🏻‍💻
+# ![bitmoji-hello](https://github.com/Prouly/Prouly/assets/80397239/d99dad50-f50c-4099-8910-6fbd664eafd7)Hello there 👋, Im Álvaro, a software developer 👨🏻‍💻
 
 ### Full Stack Developer
 ![Github-Home](https://github.com/Prouly/Prouly/assets/80397239/ac733691-49cf-4a4e-a93f-1c113a321350)
