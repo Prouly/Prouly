@@ -78,7 +78,7 @@ I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with c
 <td style="vertical-align:top">
 <h4>FrutyRoy</h4>
 <a href="https://github.com/Prouly/frutyroy">
-<img src="https://github.com/Prouly/frutyroy/blob/main/img/FrutyRoyLogo.png" width='400px' height='auto'>
+<img src="https://github.com/Prouly/Prouly/blob/main/FrutyRoy-logo.jpg" width='400px' height='auto'>
 </a>
 </td>
 </tr>
