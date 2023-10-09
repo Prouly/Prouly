@@ -47,7 +47,7 @@ I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with c
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/)
 
 ## Projects
-[![MineMonroy|300](https://github.com/Prouly/Prouly/assets/80397239/cdf5a9fd-e1ea-4f21-9e77-b67c93a3be26)](https://github.com/Prouly/Mineroy)
+[![MineMonroy|300](https://github.com/Prouly/Mineroy/assets/80397239/f14ed817-b225-44c6-931f-486b3c53360c)](https://github.com/Prouly/Mineroy)
 [![BarGiralda|300](https://github.com/Prouly/Prouly/assets/80397239/9faabbe1-477e-4fee-8070-9fb8c9bd877d)](https://github.com/Prouly/bar-giralda)
 
 ## Contact
