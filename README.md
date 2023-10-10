@@ -7,10 +7,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/prouly?style=social)](https://twitter.com/prouly)
 ![GitHub Followers](https://img.shields.io/github/followers/prouly?style=social)
 
-## About me
+## 🙋🏻‍♂️ About me
 I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with computers and technology began when I was just a kid 👦🏻. I started exploring my family's 486 computer 🖥 at a young age, eager to learn MS-DOS and play Monkey Island 🐒🏝. This curiosity has only grown with time, leading me to become a **software developer**. <br>**I'm actively seeking job opportunities 🔎👷🏻‍♂️** and specializing in **web development**. If you represent a company looking to hire🛒 or if you're interested in collaborating 🤝🏻 on an open-source project, please feel free to reach out. <br>You can also explore the technologies I know and check out my projects 👇!
 
-## Tecnologies
+## ⚙ Tecnologies
 
 ### Languages
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)](https://www.java.com/)
@@ -48,7 +48,7 @@ I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with c
 [![Odoo](https://img.shields.io/badge/Odoo-167BFF?style=for-the-badge&logo=odoo&logoColor=white&labelColor=101010)](https://www.odoo.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/)
 
-## Projects
+## 📁 Projects
 <!--
 [![BarGiralda](https://github.com/Prouly/bar-giralda/blob/main/fondo-barGiralda.png)](https://github.com/Prouly/bar-giralda)
 [![BetisIsland](https://github.com/Prouly/betis-island/blob/main/Betis-Island-portada.png)](https://github.com/Prouly/betis-island)
@@ -92,7 +92,7 @@ I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with c
 </tr>
 </table>
 
-## Contact
+## 📩 Contact
 ✏ You can reach out to me to collaborate on a project or for any other matter. Here are the contact methods.<br>
 [![Email](https://img.shields.io/badge/alvaromunozadan@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alvaromunozadan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Álvaro_Muñoz_Adán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alvaro-mu%C3%B1oz-adan/)<br>
