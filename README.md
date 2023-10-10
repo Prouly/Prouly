@@ -8,7 +8,16 @@
 ![GitHub Followers](https://img.shields.io/github/followers/prouly?style=social)
 
 ## 🙋🏻‍♂️ About me
-I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with computers and technology began when I was just a kid 👦🏻. I started exploring my family's 486 computer 🖥 at a young age, eager to learn MS-DOS and play Monkey Island 🐒🏝. This curiosity has only grown with time, leading me to become a **software developer**. <br>**I'm actively seeking job opportunities 🔎👷🏻‍♂️** and specializing in **web development**. If you represent a company looking to hire🛒 or if you're interested in collaborating 🤝🏻 on an open-source project, please feel free to reach out. <br>You can also explore the technologies I know and check out my projects 👇!
+
+* I am Álvaro Muñoz, Junior **Full Stack Developer**.
+* Passion for technology since childhood 👦🏻
+* Started with a 486 computer 🖥 and MS-DOS to play Monkey Island 🐒🏝
+* Curiosity led to a career in software development.
+* **Actively seeking job opportunities 🔎👷🏻‍♂️**
+* Specializing in web development.
+* **Open to job offers 🛒 and open-source collaborations 🤝🏻**
+  
+![👇🏻](https://img.shields.io/badge/👇🏻-101010?style=for-the-badge)![CheckOut](https://img.shields.io/badge/Check%20out%20my%20technologies%20and%20projects-008bdc?style=for-the-badge)![👇🏻](https://img.shields.io/badge/👇🏻-101010?style=for-the-badge)
 
 ## ⚙ Tecnologies
 
