@@ -55,37 +55,37 @@ I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with c
 -->
 <table style="width:100%">
 <tr>
-<td style="vertical-align:top">
+<td valign="top">
 <h4>Betis Island</h4>
-<a href="https://github.com/Prouly/betis-island">
+<a href="https://github.com/Prouly/betis-island" target="_blank">
 <img src="https://github.com/Prouly/betis-island/blob/main/Betis-Island-portada.png" width='400px' height='auto'>
 </a>
 </td>
-<td style="vertical-align:top">
+<td valign="top">
 <h4>Bar Giralda</h4>
-<a href="https://github.com/Prouly/bar-giralda" >
+<a href="https://github.com/Prouly/bar-giralda" target="_blank">
 <img src="https://github.com/Prouly/bar-giralda/blob/main/fondo-barGiralda.png" width='400px' height='auto'>
 </a>
 </td>
 </tr>
 <tr>
-<td style="vertical-align:top">
+<td valign="top">
 <h4>MineMonroy</h4>
-<a href="https://github.com/Prouly/Mineroy">
+<a href="https://github.com/Prouly/Mineroy" target="_blank">
 <img src="https://github.com/Prouly/Mineroy/blob/main/minemonroy.jpg" width='400px' height='auto'>
 </a>
 </td>
-<td style="vertical-align:top">
+<td valign="top">
 <h4>FrutyRoy</h4>
-<a href="https://github.com/Prouly/frutyroy">
+<a href="https://github.com/Prouly/frutyroy" target="_blank">
 <img src="https://github.com/Prouly/Prouly/blob/main/FrutyRoy-logoV2.jpg" width='400px' height='auto'>
 </a>
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top">
+<td valign="top">
 <h4>Proulyfy</h4>
-<a href="https://github.com/Prouly/proulyfy">
+<a href="https://github.com/Prouly/proulyfy" target="_blank">
 <img src="https://github.com/Prouly/proulyfy/blob/main/public/img/proulyfy-logo.jpg" width='400px' height='auto'>
 </a>
 </td>   
