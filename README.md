@@ -1,5 +1,5 @@
 
-# ![bitmoji-hello](https://github.com/Prouly/Prouly/assets/80397239/d99dad50-f50c-4099-8910-6fbd664eafd7)Hello there 👋, Im Álvaro, a software developer 👨🏻‍💻
+# ![bitmoji-hello](https://github.com/Prouly/Prouly/assets/80397239/d99dad50-f50c-4099-8910-6fbd664eafd7)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31C1F7&random=false&width=620&lines=Hello+there+%F0%9F%91%8B%2C+Im+%C3%81lvaro%2C+a+software+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ### Full Stack Developer
 ![Github-Home](https://github.com/Prouly/Prouly/assets/80397239/ac733691-49cf-4a4e-a93f-1c113a321350)
