@@ -35,11 +35,11 @@ I'm Álvaro Muñoz, a junior **Full Stack Developer**. <br>My fascination with c
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=101010)](https://eclipseide.org/)
 [![NetBeans](https://img.shields.io/badge/NetBeans-008C45?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)](https://netbeans.apache.org/)
 
-## Version control
+### Version control
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/)
 
-## Others
+### Others
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
