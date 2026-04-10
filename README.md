@@ -67,6 +67,7 @@
 <img src="https://github.com/Prouly/StreetsOfRage2/blob/main/docs/SOR2_MainMenu.jpg" width='400px' height='auto'>
 </a>
 </td>
+</tr>
 <td valign="top">
 <h4>Betis Island</h4>
 <a href="https://github.com/Prouly/betis-island" target="_blank">
