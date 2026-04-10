@@ -58,12 +58,15 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/)
 
 ## 📁 Projects
-<!--
-[![BarGiralda](https://github.com/Prouly/bar-giralda/blob/main/fondo-barGiralda.png)](https://github.com/Prouly/bar-giralda)
-[![BetisIsland](https://github.com/Prouly/betis-island/blob/main/Betis-Island-portada.png)](https://github.com/Prouly/betis-island)
--->
+
 <table style="width:100%">
 <tr>
+<td valign="top">
+<h4>Streets of Rage 2</h4>
+<a href="https://github.com/Prouly/StreetsOfRage2" target="_blank">
+<img src="https://github.com/Prouly/StreetsOfRage2/blob/main/docs/SOR2_MainMenu.jpg" width='400px' height='auto'>
+</a>
+</td>
 <td valign="top">
 <h4>Betis Island</h4>
 <a href="https://github.com/Prouly/betis-island" target="_blank">
