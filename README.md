@@ -33,6 +33,9 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](https://angular.io/)
 [![Astro](https://img.shields.io/badge/Astro-ff7e33?style=for-the-badge&logo=astro&logoColor=white&labelColor=000000)](https://astro.build/)
 
+### Videogames
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://unity.com/)
+
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)](https://www.postgresql.org/)
@@ -40,6 +43,7 @@
 
 ### IDE
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=101010)](https://code.visualstudio.com/)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=jetbrains-rider&logoColor=white)
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&color=3DDC84&labelColor=101010)](https://developer.android.com/studio)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=101010)](https://eclipseide.org/)
 [![NetBeans](https://img.shields.io/badge/NetBeans-008C45?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)](https://netbeans.apache.org/)
@@ -52,7 +56,6 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://unity.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com/)
 [![Odoo](https://img.shields.io/badge/Odoo-167BFF?style=for-the-badge&logo=odoo&logoColor=white&labelColor=101010)](https://www.odoo.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/)
