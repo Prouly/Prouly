@@ -49,8 +49,8 @@
 [![NetBeans](https://img.shields.io/badge/NetBeans-008C45?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)](https://netbeans.apache.org/)
 
 ### Design
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=orange)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=gimp&logoColor=brown)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=grey)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=gimp&logoColor=white)
 
 ### Version control
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
