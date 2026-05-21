@@ -74,6 +74,12 @@
 <img src="https://github.com/Prouly/StreetsOfRage2/blob/main/docs/SOR2_MainMenu.jpg" width='400px' height='auto'>
 </a>
 </td>
+<td valign="top">
+<h4>Smoothie Criminal</h4>
+<a href="https://github.com/Prouly/SmoothieCriminal" target="_blank">
+<img src="https://github.com/Prouly/SmoothieCriminal/blob/main/docs/gameplay/SmoothieCriminal_MainMenu.gif" width='400px' height='auto'>
+</a>
+</td>
 </tr>
 <td valign="top">
 <h4>Betis Island</h4>
